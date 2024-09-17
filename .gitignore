@@ -1,0 +1,4 @@
+python/.DS_Store
+python/.vscode
+python/**/__pycache__/*
+typescript/node_modules/*
